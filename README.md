@@ -216,11 +216,3 @@ We're always looking to improve! Potential future directions:
 - [ ] 🔌 **REST API** exposing the underlying inventory and health data.
 
 ---
-
-## 👨‍💻 Author
-
-Built and documented by **Mayur Garje** as a flagship CCNA-level network automation project, seamlessly combining **Cisco IOS, GNS3, Python, and Netmiko**.
-
-<div align="center">
-  <i>If you found this project helpful, don't forget to give it a ⭐!</i>
-</div>
