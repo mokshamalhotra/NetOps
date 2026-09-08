@@ -29,7 +29,6 @@
 - [💻 Usage](#-usage)
 - [🛤️ Project Phases](#️-project-phases)
 - [🔮 Future Enhancements](#-future-enhancements)
-- [👨‍💻 Author](#-author)
 
 ---
 
